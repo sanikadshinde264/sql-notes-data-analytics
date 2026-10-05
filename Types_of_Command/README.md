@@ -1,6 +1,5 @@
 # 📚 SQL Commands and SQL vs NoSQL
 
-This section covers the five major types of SQL commands and the basic differences between SQL and NoSQL databases.
 
 ## 🧩 Types of SQL Commands
 
