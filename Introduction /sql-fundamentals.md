@@ -118,3 +118,13 @@ SQL follows international standards such as **ANSI SQL / ISO SQL**.
 Basic SQL commands are generally similar across different relational database systems. However, some advanced syntax and features may differ between MySQL, PostgreSQL, Oracle, and SQL Server.
 
 For beginners, it is recommended to learn SQL using one RDBMS such as **MySQL or PostgreSQL**.
+
+## 🛠️ Query Tool
+
+A **Query Tool** is used to write and execute SQL queries in a database environment.
+
+**Keyboard Shortcut:**
+
+`Alt + Shift + Q`
+
+This shortcut can be used to open the Query Tool in the supported database environment.
